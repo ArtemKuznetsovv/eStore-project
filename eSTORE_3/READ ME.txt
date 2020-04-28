@@ -1,7 +1,10 @@
-פרוייקט חנות חלק שלישי - סמסטר א' קבוצה א'  26.1.2020
-מגישים : ארטיום קוזניצוב 324373828 , שלומי אליהו 203435896
+Electronic store project , the store consists of buyers,sellers and people who are both . 
 
+All users can register as :
+1.Buyers
+2.Sellers
+3.Buyer-Seller
 
-הנחיות מיוחדות :
-מצורף קובץ MAIN asdasd מופעלת המטודה של התפריט
-
+Buyers can add products to their cart , make orders , leave reviews on diffrent sellers which they bought from . 
+Sellers can add products to their store .
+And users which register as Bueyr - Seller can do both . 
